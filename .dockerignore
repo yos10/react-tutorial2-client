@@ -1,4 +1,6 @@
 .git
+.netlify
+build
 node_modules
 .dockerignore
 .gitignore
